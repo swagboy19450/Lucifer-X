@@ -1,7 +1,7 @@
 {
- "name": "Lucifer 🇮🇳 UserBot",
- "description": "An advanced Telethon Userbot, from @Lucifer_support_group",
- "logo": "https://telegra.ph/file/73373552e9217e010e853.jpg",
+ "name": "𝐃𝐀𝐑𝐊 𝐂𝐎𝐁𝐑𝐀 𝐔𝐒𝐄𝐑𝐁𝐎𝐓",
+ "description": "An advanced Telethon Userbot, from @DARK_COBRA_USERBOT",
+ "logo": "https://telegra.ph/file/a6d72504bc09e71484a54.jpg",
  "keywords": [
   "telegram",
   "userbot",
@@ -9,9 +9,9 @@
   "modular",
   "productivity"
  ],
- "repository": "https://github.com/kaal0408/Lucifer-X",
- "website": "https://kaal0408.gitbook.io/Lucifer/",
- "success_url": "https://t.me/LuciferXsupport",
+ "repository": "https://github.com/neel19450",
+ "website": "https://github.com/neel19450",
+ "success_url": "https://t.me/DARK_COBRA_USERBOT",
  "stack": "container",
  "env": {
   "ENV": {
@@ -66,7 +66,7 @@
    "required": false
   },  
   "GIT_REPO_NAME": {
-   "description": "Your repo name Example: kaal0408/Lucifer, but GITHUB_ACCESS_TOKEN must be setup first.",
+   "description": "Your repo name , but GITHUB_ACCESS_TOKEN must be setup first.",
    "value": "",
    "required": false
   },
