@@ -78,7 +78,7 @@ async def stats(
     response += (
         f"**❅** ✘ **υияєα∂ мєитισиѕ:** `{unread_mentions}` ✘\n**❅──────✧❅✦❅✧──────❅**\n"
     )
-    response += f"📍 **ρσωєяє∂ ву [тεαм ℓυcιғεя](t.me/LuciferXsupport)** 📍"
+    response += f"📍 **ρσωєяє∂ ву [𝐃𝐀𝐑𝐊 𝐂𝐎𝐁𝐑𝐀 𝐔𝐒𝐄𝐑𝐁𝐎𝐓(https://t.me/DARK_COBRA_USERBOT)** 📍"
     await alain.edit(response)
 
 
