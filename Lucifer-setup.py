@@ -12,10 +12,10 @@ print(
 𝙻𝙾𝙶𝙸𝙽 𝚄𝚂𝙸𝙽𝙶 𝚈𝙾𝚄𝚁 𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼 𝙰𝙲𝙲𝙾𝚄𝙽𝚃
 𝙲𝙻𝙸𝙲𝙺 𝙾𝙽 𝙰𝙿𝙸 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙼𝙴𝙽𝚃 𝚃𝙾𝙾𝙻𝚂
 𝙲𝚁𝙴𝙰𝚃𝙴 𝙰 𝙽𝙴𝚆 𝙰𝙿𝙿𝙻𝙸𝙲𝙰𝚃𝙸𝙾𝙽, 𝙱𝚈 𝙴𝙽𝚃𝙴𝚁𝙸𝙽𝙶 𝚁𝙴𝚀𝚄𝙸𝚁𝙴𝙳 𝙳𝙴𝚃𝙰𝙸𝙻𝚂
-𝚃𝙴𝙰𝙼 𝙻ucifer
+𝚃𝙴𝙰𝙼 COBRA
  
 
-Running Lucifer Fire on Termux 🔥🔥🔥🔥....
+Running COBRA Fire on Termux 🔥🔥🔥🔥....
 """
 )
 print("")
@@ -26,7 +26,7 @@ API_HASH = input("𝙴𝙽𝚃𝙴𝚁 𝚈𝙾𝚄𝚁 𝙰𝙿𝙸 𝙷𝙰�
 with TelegramClient(StringSession(), APP_ID, API_HASH) as client:
     tele = client.send_message("me", client.session.save())
     tele.reply(
-        "✘ Hᴇʀᴇ ɪs ʏᴏᴜʀ `STRING_SESSION` Oғ Lucifer ᴜsᴇʀʙᴏᴛ ✘.\n@Lucifer_support_group"
+        "✘ 𝐇𝐄𝐑𝐄 𝐈𝐒 𝐘𝐎𝐔𝐑 𝐒𝐓𝐑𝐈𝐍𝐆 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐎𝐅 𝐃𝐀𝐑𝐊 𝐂𝐎𝐁𝐑𝐀 𝐔𝐒𝐄𝐑𝐁𝐎𝐓 ✘.\n@DARK_COBRA_USERBOT"
     )
     print("")
     print("Bᴇʟᴏᴡ ɪs ʏᴏᴜʀ STRING_SESSION. Wᴇ ʜᴀᴠᴇ ᴀʟsᴏ sᴛᴏʀᴇᴅ ɪɴ ᴛᴇʟᴇɢʀᴀᴍ sᴀᴠᴇ ᴍᴇssᴀɢᴇs")
