@@ -5,7 +5,7 @@ system(
 )
 # if got error
 print(
-    " Sʀʏʏ ᴜɴғᴏʀᴛᴜɴᴀᴛᴇʟʏ ʏᴏᴜ ʜᴀᴠᴇ ɢᴏᴛ ᴇʀʀᴏʀ ᴘʟᴇᴀsᴇ ʀᴇᴘᴏʀᴛ ɪᴛ ᴀᴛ @Lucifer_support_group"
+    " Sʀʏʏ ᴜɴғᴏʀᴛᴜɴᴀᴛᴇʟʏ ʏᴏᴜ ʜᴀᴠᴇ ɢᴏᴛ ᴇʀʀᴏʀ ᴘʟᴇᴀsᴇ ʀᴇᴘᴏʀᴛ ɪᴛ ᴀᴛ @dark_cobra_userbit"
 )
 # Script written for stop heroku suspension
 # use with credit else gay
