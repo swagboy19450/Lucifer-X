@@ -3,7 +3,7 @@
 # Licensed under the Raphielscape Public License, Version 1.c (the "License");
 # you may not use this file except in compliance with the License.
 #
-""" Userbot module for kanging stickers or making new ones. Thanks @rupansh"""
+""" Userbot module for kanging stickers or making new ones. Thanks @DARK_COBRA_XD"""
 
 import io
 import math
@@ -108,7 +108,7 @@ async def kang(args):
         packnick = (
             f"{telename} Vol.{pack}"
             if telename
-            else f"✘ @{user.username}'s LUCIFER 𝚅𝙾𝙻.{pack} ✘"
+            else f"✘ @{user.username}'s COBRA 𝚅𝙾𝙻.{pack} ✘"
         )
         cmd = "/newpack"
         file = io.BytesIO()
@@ -144,7 +144,7 @@ async def kang(args):
                     packnick = (
                         f"{telename} Vol.{pack}"
                         if telename
-                        else f"@{user.username}'s Lucifer Vol.{pack}"
+                        else f"@{user.username}'s COBRA Vol.{pack}"
                     )
                     await args.edit(
                         "`Switching to Pack "
